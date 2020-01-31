@@ -1,0 +1,22 @@
+{
+  "name": "gamejam",
+  "version": "1.0.0",
+  "description": "Game jam ZuSys",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cabezota/gamejam.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cabezota/gamejam/issues"
+  },
+  "homepage": "https://github.com/cabezota/gamejam#readme",
+  "dependencies": {
+    "phaser": "^3.22.0"
+  }
+}
